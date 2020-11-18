@@ -1,4 +1,7 @@
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+EAGO = "bb8be931-2a91-5aca-9f87-79e1cb69959a"
+EyeOfRa = "80847211-bc6c-46c0-860f-0841d8001362"
 Feather = "becb17da-46f6-5d3c-ad1b-1c5fe96bc73c"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
