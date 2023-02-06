@@ -1,2 +1,5 @@
 data.tar.xz
-data/
+data_*/
+dev/
+
+
