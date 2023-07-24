@@ -1,7 +1,5 @@
 [deps]
-Agents = "46ada45e-f475-11e8-01d0-f70cc89e6671"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
-DiscreteDifferentialGeometry = "4ae10c0b-1ab8-4fd6-bf00-fff7d91da249"
 Feather = "becb17da-46f6-5d3c-ad1b-1c5fe96bc73c"
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
